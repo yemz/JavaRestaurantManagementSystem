@@ -33,9 +33,6 @@ public class Restaurants2 {
 	private JTextField textFieldCoffeeQty;
 	private JTextField textFieldWaterQty;
 	
-
-	
-	
 	/**
 	 * Launch the application.
 	 */
@@ -546,9 +543,6 @@ public class Restaurants2 {
 				textFieldChickenQty.setText("0");
 				textFieldCubanQty.setText("0");
 				textFieldTripletaQty.setText("0");
-				
-				//********************************check why TEXTAREA is not reseting
-				//textAreaReceipts.setText("null");
 				
 				//food total reset
 				lblChickenTotal.setText("$0.00");
