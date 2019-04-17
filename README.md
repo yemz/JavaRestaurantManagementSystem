@@ -1,6 +1,6 @@
 # Java Restaurant Management System
 
-This is a simple application simulating the management system of a restaurant.  It allows users to place an order based on the food and drink selection.  The system calculates the subtotal, tax and total of the order.  If requested the receipt can be displayed on the screen.  
+This Java application allows users to place an order based on the food and drink selection.  The system calculates the subtotal, tax and total of the order.  In addition, the receipt can be displayed on the screen.  
 
 User Stories:
 
